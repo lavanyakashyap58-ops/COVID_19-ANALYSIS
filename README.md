@@ -28,15 +28,15 @@ Remove duplicate records
 
 ---------------------------------------------------------------------------
 
-# BASIC ANALYSIS (SQL)#
+# BASIC ANALYSIS (SQL)
 Find top 5 states with highest confirmed cases
 Find bottom 5 states with lowest deaths
 Calculate total confirmed, recovered, and deaths per state
 Count number of records per state
-# DATA QUALITY CHECK#
+# DATA QUALITY CHECK
 Identify states where recovered cases exceed confirmed cases
 Detect inconsistent or incorrect data entries
-# RATE CALCULATIONS#
+# RATE CALCULATIONS
 Calculate death rate per state
 Calculate recovery rate per state
 Identify states with death rate greater than 2%
